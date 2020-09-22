@@ -1,5 +1,12 @@
 # OpenVPN Admin
 
+## DO NOT INSTALL!!!
+
+## WARNING!!!
+This version of the software has been created with deliberately injected exploitable vulnerabilities. DO NOT INSTALL
+
+## DO NOT INSTALL!!!
+
 ## Summary
 Administrate its OpenVPN with a web interface (logs visualisations, users managing...) and a SQL database.
 
@@ -94,3 +101,5 @@ It will remove all installed components (OpenVPN keys and configurations, the we
   * [Bootstrap Datepicker](https://github.com/eternicode/bootstrap-datepicker)
   * [JQuery](https://jquery.com/)
   * [X-editable](https://github.com/vitalets/x-editable)
+
+## DO NOT INSTALL!!!
